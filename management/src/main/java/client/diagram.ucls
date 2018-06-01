@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="client.RegularView" project="management" 
+    file="/management/src/main/java/client/RegularView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="119" x="2275" y="603"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="client.ManagerView" project="management" 
+    file="/management/src/main/java/client/ManagerView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="119" x="2394" y="696"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="client.LogInView" project="management" 
+    file="/management/src/main/java/client/LogInView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="87" x="2436" y="482"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="client.AdminView" project="management" 
+    file="/management/src/main/java/client/AdminView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="119" x="2235" y="696"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="client.Validator" project="management" 
+    file="/management/src/main/java/client/Validator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="94" x="2302" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="client.AngajatView" project="management" 
+    file="/management/src/main/java/client/AngajatView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="119" x="2436" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="client.LogInCont" project="management" 
+    file="/management/src/main/java/client/LogInCont.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="126" x="2394" y="789"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.proiect.management.model.Prezenta" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/Prezenta.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="154" x="999" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="com.proiect.management.model.Criteria" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/Criteria.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="181" x="281" y="133"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="10" language="java" name="com.proiect.management.model.SalariuDao" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/SalariuDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="144" x="-2" y="39"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.proiect.management.model.PDF" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/PDF.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="199" x="2799" y="789"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.proiect.management.model.Angajat" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/Angajat.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="765" width="344" x="2258" y="982"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.proiect.management.model.Leave" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/Leave.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="57" width="164" x="551" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="14" language="java" name="com.proiect.management.model.Report" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/Report.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="199" x="2652" y="982"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="15" language="java" name="com.proiect.management.model.TaskDao" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/TaskDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="58" width="157" x="993" y="100"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.proiect.management.model.ReportFactory" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/ReportFactory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="144" x="2074" y="982"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.proiect.management.model.Salariu" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/Salariu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="144" x="1183" y="38"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.proiect.management.model.Task" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/Task.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="153" x="1865" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.proiect.management.model.AngajatDao" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/AngajatDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="204" x="1621" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.proiect.management.model.ManagerCriteria" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/ManagerCriteria.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="188" x="285" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.proiect.management.model.CSV" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/CSV.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="199" x="2560" y="789"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.proiect.management.model.LeaveDao" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/LeaveDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="204" x="2058" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.proiect.management.model.PrezentaDao" project="management" 
+    file="/management/src/main/java/com/proiect/management/model/PrezentaDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="204" x="511" y="127"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="24">    
+    <bendpoint x="2244" y="482"/>    
+    <bendpoint x="2244" y="603"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="25" name="adminpanel"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="27">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <association id="28">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="29" name="loginpanel"/>      
+      <multiplicity id="30" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="31">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="32" name="regularpanel"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <bendpoint x="2543" y="603"/>    
+    <bendpoint x="2543" y="696"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="35" name="logIn"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="38" name="client"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="41" name="a1"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="44" name="login"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="46">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <association id="47">    
+    <bendpoint x="2204" y="696"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="48" name="client"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="51" name="managerView"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <bendpoint x="2564" y="696"/>    
+    <bendpoint x="2564" y="603"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="54" name="logInView"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="57" name="loginpanel"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="60" name="report2"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="62">    
+    <bendpoint x="2585" y="482"/>    
+    <bendpoint x="2585" y="603"/>    
+    <bendpoint x="2585" y="696"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="63" name="client"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="66" name="adminpanel"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <bendpoint x="2445" y="603"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="69" name="premiumpanel"/>      
+      <multiplicity id="70" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="71">    
+    <bendpoint x="2424" y="603"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="72" name="adminpanel"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="74">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="75" name="report1"/>      
+      <multiplicity id="76" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="77">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <association id="78">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="79" name="reportFactory"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="81">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="82" name="clientpanel"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="84">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="85" name="subordinates"/>      
+      <multiplicity id="86" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
